@@ -1,3 +1,3 @@
 # conflict-resolution-task
 
-This is Student A's edit
+This is combined edit from both Students A and B
